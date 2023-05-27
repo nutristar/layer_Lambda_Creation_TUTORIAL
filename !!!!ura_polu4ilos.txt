@@ -1,0 +1,21 @@
+на ФМАЗОН ЛИНУКС ИНСТАНСЕ СОЗДАЕМ 
+
+sudo yum update -y
+sudo yum install python3-pip -y
+sudo yum install python3 -y
+sudo yum install python3 -y
+
+mkdir  your dir
+cd your dir
+
+pip install virtualenv==20.23.0
+
+
+
+
+не  знаю которая из них  сработала
+pip  install requests  -t python/lib/python3.8/site-packages
+
+pip  install requests  -t python/lib/python3.10/site-packages
+
+zip -r9 python.zip python
